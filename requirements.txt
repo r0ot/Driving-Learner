@@ -1,0 +1,9 @@
+Box2D==2.3.2
+h5py==2.6.0
+Keras==1.1.0
+numpy==1.11.2
+pygame==1.9.2b8
+PyYAML==3.12
+scipy==0.18.1
+six==1.10.0
+Theano==0.8.2
